@@ -30,8 +30,8 @@ python password_checker.py
 
 ## Screenshots
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](menu.png)
 
-![Password Check](screenshots/password_check.png)
+![Password Check](password_check.png)
 
-![Password Generator](screenshots/password_generator.png)
+![Password Generator](password_generator.png)
